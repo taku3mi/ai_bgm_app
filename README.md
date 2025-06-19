@@ -12,9 +12,8 @@
 
 ・使用する技術
 python HTML CSS javascript
-Mubert API
+Mubert API　有料のため　huggingfaceを使用する（ライブラリを使用）
 Flask
-
 
 　
 
